@@ -1,4 +1,5 @@
 AAAAA
-VVVWWWWWWWWWW
-LLLLLLL
-&&&&&777777
+VVVWLLL
+&&
+&&&777777
+dasdasdsadsadsadsa
