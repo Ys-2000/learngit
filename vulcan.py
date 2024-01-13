@@ -11,4 +11,8 @@ dasdasdsadsadsadsaa
 
         dasdasdsadsadsadsa
         dasdasdsadsadsadsa
-        
+
+dasdasdsadsadsadsa
+def main(0):
+    dasdasdsadsadsadsa
+    
